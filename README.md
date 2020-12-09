@@ -1,6 +1,6 @@
-# Shopping cart Application
+# Shopping Cart Application
 
-In this project code we have used amazon as our primary source of testing for the cart verification.
+In this project code we have used amazon website as our primary source of testing for the cart verification.
 
 # Test Requirement
 
